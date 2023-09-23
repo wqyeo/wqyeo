@@ -18,4 +18,9 @@ I did a lot of Game Programming for my Diploma, and done various hobbist project
 ### Personal
 - 🎮 I like video games.
 - 💻 I do programming projects I am interested in.
+- 🤔 I occassionally do programming challenges
 - 🐀 Memes.
+
+<a href="https://stackexchange.com/users/10036791?theme=dark"><img src="https://stackexchange.com/users/flair/10036791.png?theme=dark" width="208" height="58" alt="profile for WQYeo on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for WQYeo on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+
+<a href="https://www.codewars.com/users/WQMan"><img src="https://www.codewars.com/users/WQMan/badges/large" alt="profile for WQYeo on Codewars, CodeWars is an online platform that offers coding challenges known as 'kata' to help programmers improve their skills." title="profile for WQYeo on CodeWars, a coding challenges website"></a>
