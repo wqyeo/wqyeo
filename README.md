@@ -12,7 +12,7 @@ I did a lot of Game Programming for my Diploma, and done various hobbist project
 - 🌱 Looking to learn and get into the field of programming embedded systems.
 
 ### Environment
-- 🐧 I like using [Debian](https://www.debian.org/) as my OS.
+- 🐧 I like using [PopOS](https://pop.system76.com/) as my OS.
 - 🖋️ [VSCode](https://code.visualstudio.com/) with [Vim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim) plugin is my editor of choice. _(I prefer a setup that is both simple to configure and enables editing solely using the keyboard)_
 
 ### Personal
