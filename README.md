@@ -7,12 +7,11 @@ I did a lot of Game Programming for my Diploma, and done various hobbist project
 
 ### Technologies
 - 🛠 I'm passionate about development in relation to Games.
-- ⚡ I love Object Oriented Programming concepts.
 - 🔭 Currently working on Web Application projects.
 - 🌱 Looking to learn and get into the field of programming embedded systems.
 
 ### Environment
-- 🐧 I like using [OpenSUSE](https://get.opensuse.org/) as my OS.
+- 🐧 I am currently using [EndeavourOS](https://endeavouros.com/).
 - 🖋️ [VSCodium](https://vscodium.com/) is my editor of choice.
 
 ### Personal
