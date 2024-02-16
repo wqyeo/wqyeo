@@ -11,7 +11,7 @@ I did a lot of Game Programming for my Diploma, and done various hobbist project
 - 🌱 Looking to learn and get into the field of programming embedded systems.
 
 ### Environment
-- 🐧 I am currently using [EndeavourOS](https://endeavouros.com/).
+- 🐧 I prefer using Debian based systems.
 - 🖋️ [VSCodium](https://vscodium.com/) is my editor of choice.
 
 ### Personal
