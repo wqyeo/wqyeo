@@ -8,11 +8,11 @@ I did a lot of Game Programming for my Diploma, and done various hobbist project
 ### Technologies
 - 🛠 I'm passionate about development in relation to Games.
 - 🔭 Currently working on Web Application projects.
-- 🌱 Looking to learn and get into the field of programming embedded systems.
+- 🐧 Average Linux Enjoyer, preferring Debian and Arch systems.
 
 ### Environment
-- 🐧 I prefer using Debian based systems.
-- 🖋️ [VSCodium](https://vscodium.com/) is my editor of choice.
+- 🐧 I am currently using Arch based systems.
+- 🖋️ [Nvim](https://neovim.io/) is my editor of choice.
 
 ### Personal
 - 🎮 I like video games.
