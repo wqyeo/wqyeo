@@ -1,18 +1,18 @@
 # Hi there 👋, I am Yeo Wen Qin, nice to meet you.
 
 I'm a university student studying for a Degree in Software Engineering at [Singapore Institude of Technology](https://www.singaporetech.edu.sg/).<br>
-I did a lot of Game Programming for my Diploma, and done various hobbist project in my free time.
+I did lots of Game Programming for my Diploma, and done various hobbist project in my free time.
 
 ## Interests
 
 ### Technologies
-- 🛠 I'm passionate about development in relation to Games.
-- 🔭 Currently working on Web Application projects.
+- 🛠 I'm passionate about web development.
+- 🔭 Currently learning Cybersecurity.
 - 🐧 Average Linux Enjoyer, preferring Debian and Arch systems.
 
 ### Environment
-- 🐧 I am currently using Arch based systems.
-- 🖋️ [Nvim](https://neovim.io/) is my editor of choice.
+- 🐧 I am currently using Debian based systems.
+- 🖋️ [VSCodium](https://vscodium.com/) is my editor of choice.
 
 ### Personal
 - 🎮 I like video games.
