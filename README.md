@@ -84,7 +84,7 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Raspberry](https://img.shields.io/badge/-Raspberry-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
-## Fun Statistics
+## Interesting Statistics
 
 ### Git
 
@@ -94,7 +94,7 @@
 
 ### Coding Statistics
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wqmann&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wqmann&theme=tokyonight)](https://wakatime.com/@wqmann)
 
 ## Other Socials
 
