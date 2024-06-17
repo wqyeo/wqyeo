@@ -94,7 +94,7 @@
 
 ### Coding Statistics
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wqmann)](https://github.com/anuraghazra/github-readme-stats&theme=tokyonight)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wqmann&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Other Socials
 
