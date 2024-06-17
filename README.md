@@ -105,5 +105,3 @@
 ![HackTheBox](https://www.hackthebox.eu/badge/image/1947759)
 
 </div> 
-
-> You can find my primary social media in the left tab of my profile!
