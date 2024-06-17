@@ -1,11 +1,13 @@
 # Hi there 👋, I am Yeo Wen Qin, nice to meet you.
 
-I'm a university student studying for a Degree in Software Engineering at [Singapore Institude of Technology](https://www.singaporetech.edu.sg/).<br>
-I did lots of Game Programming for my Diploma, and done various hobbist project in my free time.
+👨‍💻 &nbsp;I'm a university student studying for a Degree in Software Engineering at [Singapore Institude of Technology](https://www.singaporetech.edu.sg/).\
+💡 &nbsp;I like to explore new technologies and computer science concepts.\
+🌱 &nbsp;I'm current learning about Cybersecurity.\
+✉️ &nbsp;Feel free to shoot me an email at yeo_dev@protonmail.com! I'll respond as soon as I can.\
+🤝🏻 &nbsp; <a href="https://www.linkedin.com/in/wqyeo/"><img src="https://img.shields.io/badge/-wqyeo-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> <a href="https://x.com/wqyeo"><img src="https://img.shields.io/badge/-wqyeo-212121?style=flat&logo=x&logoColor=white"/></a> <a href="https://mastodon.social/@wq_man"><img src="https://img.shields.io/badge/-wq_man-1877F2?style=flat&logo=mastodon&logoColor=white"/></a>
 <div align="center">
-
+  
 ## Enviroment
-
 ### Editor
 
 ![VS Code Insiders](https://img.shields.io/badge/VS%20Code%20Insiders-35b393.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -19,7 +21,6 @@ I did lots of Game Programming for my Diploma, and done various hobbist project 
 ![KDE](https://img.shields.io/badge/KDE-%232284F2.svg?style=for-the-badge&logo=kde&logoColor=white)
 
 ## Skills
-
 ### Languages
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
