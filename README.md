@@ -1,6 +1,6 @@
 # Hi there 👋, I am Yeo Wen Qin, nice to meet you.
 
-👨‍💻 &nbsp;I'm a university student studying for a Degree in Software Engineering at [Singapore Institude of Technology](https://www.singaporetech.edu.sg/).\
+👨‍💻 &nbsp;I'm a university student studying for a Degree in Software Engineering at [Singapore Institute of Technology](https://www.singaporetech.edu.sg/).\
 💡 &nbsp;I like to explore new technologies and computer science concepts.\
 🌱 &nbsp;I'm current learning about Cybersecurity.\
 ✉️ &nbsp;Feel free to shoot me an email at yeo_dev@protonmail.com! I'll respond as soon as I can.\
@@ -98,9 +98,16 @@
 
 ## Other Socials
 
-<a href="https://stackexchange.com/users/10036791?theme=dark"><img src="https://stackexchange.com/users/flair/10036791.png?theme=dark" width="208" height="58" alt="profile for WQYeo on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for WQYeo on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
-<br><a href="https://www.codewars.com/users/WQMan"><img src="https://www.codewars.com/users/WQMan/badges/large" alt="profile for WQYeo on Codewars, CodeWars is an online platform that offers coding challenges known as 'kata' to help programmers improve their skills." title="profile for WQYeo on CodeWars, a coding challenges website"></a>
-
-![HackTheBox](https://www.hackthebox.eu/badge/image/1947759)
+<a href="https://stackexchange.com/users/10036791?theme=dark">
+  <img src="https://stackexchange.com/users/flair/10036791.png?theme=dark" width="208" height="58" alt="profile for WQYeo on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for WQYeo on Stack Exchange, a network of free, community-driven Q&amp;A sites">
+</a>
+<br>
+<a href="https://app.hackthebox.com/profile/1947759">
+  <img src="https://www.hackthebox.eu/badge/image/1947759" alt="WQYeo HackTheBox Profile Badge" title="HackTheBox Profile for WQYeo">
+</a>
+<br>
+<a href="https://www.codewars.com/users/WQMan">
+  <img src="https://www.codewars.com/users/WQMan/badges/large" alt="profile for WQYeo on Codewars, CodeWars is an online platform that offers coding challenges known as 'kata' to help programmers improve their skills." title="profile for WQYeo on CodeWars, a coding challenges website">
+</a>
 
 </div> 
