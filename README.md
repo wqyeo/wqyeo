@@ -89,10 +89,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wqyeo&theme=city_lights) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wqyeo&theme=city_lights)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wqyeo&theme=city_lights) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wqyeo&theme=city_lights&utcOffset=8)
 
-### Coding Statistics
-
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wqmann&theme=tokyonight)](https://wakatime.com/@wqmann)
-
 ## Others
 
 <a href="https://stackexchange.com/users/10036791?theme=dark">
@@ -102,9 +98,7 @@
 <a href="https://app.hackthebox.com/profile/1947759">
   <img src="https://www.hackthebox.eu/badge/image/1947759" alt="WQYeo HackTheBox Profile Badge" title="HackTheBox Profile for WQYeo">
 </a>
-<br>
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/wqyeo?theme=dark&font=Sirin%20Stencil&ext=heatmap)]((https://leetcode.com/wqyeo))
 <br>
 <a href="https://www.codewars.com/users/WQMan">
   <img src="https://www.codewars.com/users/WQMan/badges/large" alt="profile for WQYeo on Codewars, CodeWars is an online platform that offers coding challenges known as 'kata' to help programmers improve their skills." title="profile for WQYeo on CodeWars, a coding challenges website">
