@@ -3,9 +3,7 @@
 👨‍💻 &nbsp;I'm a university student studying for a Degree in Software Engineering at [Singapore Institute of Technology](https://www.singaporetech.edu.sg/).\
 💡 &nbsp;I like to explore new technologies and computer science concepts.\
 🌱 &nbsp;I'm current learning about Cybersecurity.\
-✉️ &nbsp;Feel free to shoot me an email at yeo_dev@protonmail.com! I'll respond as soon as I can.\
-🤝🏻 &nbsp; <a href="https://www.linkedin.com/in/wqyeo/"><img src="https://img.shields.io/badge/-wqyeo-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> <a href="https://x.com/wqyeo"><img src="https://img.shields.io/badge/-wqyeo-212121?style=flat&logo=x&logoColor=white"/></a> <a href="https://mastodon.social/@wq_man"><img src="https://img.shields.io/badge/-wq_man-1877F2?style=flat&logo=mastodon&logoColor=white"/></a>
-<div align="center">
+✉️ &nbsp;Feel free to shoot me an email at yeo_dev@protonmail.com! I'll respond as soon as I can.
   
 ## Enviroment
 ### Editor
