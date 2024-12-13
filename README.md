@@ -12,12 +12,10 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)<br>
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 
-### Operating System, Desktop Enviornment
+### Operating System
 
-![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)<br>
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![KDE](https://img.shields.io/badge/KDE-%232284F2.svg?style=for-the-badge&logo=kde&logoColor=white)
 
 ## Skills
@@ -30,8 +28,6 @@
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
 
 ### Frameworks, Platform, Libraries
 
@@ -43,7 +39,6 @@
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Drizzle](https://img.shields.io/badge/Drizzle-59666C?style=for-the-badge&logo=Drizzle&logoColor=white)
-![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
 ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
 
 ### Database
@@ -97,11 +92,6 @@
 <br>
 <a href="https://app.hackthebox.com/profile/1947759">
   <img src="https://www.hackthebox.eu/badge/image/1947759" alt="WQYeo HackTheBox Profile Badge" title="HackTheBox Profile for WQYeo">
-</a>
-
-<br>
-<a href="https://www.codewars.com/users/WQMan">
-  <img src="https://www.codewars.com/users/WQMan/badges/large" alt="profile for WQYeo on Codewars, CodeWars is an online platform that offers coding challenges known as 'kata' to help programmers improve their skills." title="profile for WQYeo on CodeWars, a coding challenges website">
 </a>
 
 </div> 
