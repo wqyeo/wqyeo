@@ -1,6 +1,3 @@
-> [!IMPORTANT]
-> I am transitioning to [CodeBerg](https://codeberg.org/) for my personal projects. While my GitHub repositories will remain active, primarily for my school-related projects or open-source contributions, you can find and follow my latest work on CodeBerg [here](https://codeberg.org/wqyeo) under the same username.
-
 # Hi there 👋, I am Yeo Wen Qin, nice to meet you.
 
 👨‍💻 &nbsp;I'm a university student studying for a Degree in Software Engineering at [Singapore Institute of Technology](https://www.singaporetech.edu.sg/).\
