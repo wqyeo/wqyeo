@@ -79,6 +79,11 @@
 ![OpenText](https://img.shields.io/badge/OpenText-000000?style=for-the-badge&logo=opentext&logoColor=white)
 
 ## Social Badges
+ 
+<a href="https://www.codewars.com/users/WQMan">
+  <img src="https://www.codewars.com/users/WQMan/badges/large" alt="Codewars Profile Badge for WQMan" title="Codewars Profile for WQMan">
+</a>
+<br>
 
 <a href="https://stackexchange.com/users/10036791?theme=dark">
   <img src="https://stackexchange.com/users/flair/10036791.png?theme=dark" width="208" height="58" alt="profile for WQYeo on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for WQYeo on Stack Exchange, a network of free, community-driven Q&amp;A sites">
