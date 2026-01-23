@@ -1,3 +1,6 @@
+> [!IMPORTANT]  
+>  I primarily use GitLab for most of my work. For my latest projects and activity, please check me out there: [wqyeo](https://gitlab.com/wqyeo).
+
 # Hi there 👋, I am Yeo Wen Qin, nice to meet you.
 
 👨‍💻 &nbsp;I'm a university student studying for a Degree in Software Engineering at [Singapore Institute of Technology](https://www.singaporetech.edu.sg/).\
