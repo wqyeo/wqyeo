@@ -1,18 +1,15 @@
-> [!IMPORTANT]  
->  I primarily use GitLab for most of my work. For my latest projects and activity, please check me out there: [wqyeo](https://gitlab.com/wqyeo).
+> [!IMPORTANT]
+> I primarily use GitLab for most of my work. For my latest projects and activity, please check me out there: [wqyeo](https://gitlab.com/wqyeo).
 
 # Hi there 👋, I am Yeo Wen Qin, nice to meet you.
 
-👨‍💻 &nbsp;I'm a university student studying for a Degree in Software Engineering at [Singapore Institute of Technology](https://www.singaporetech.edu.sg/).\
-✉️ &nbsp;Feel free to shoot me an email at yeo_dev@protonmail.com! I'll respond as soon as I can.
+👨‍💻 &nbsp;I'm a **Software Engineer** at [RoboAct Pte Ltd](https://roboact.com.sg/). I also hold a Degree in Software Engineering from the [Singapore Institute of Technology](https://www.singaporetech.edu.sg/).
+✉️ &nbsp;Feel free to shoot me an email at [yeo_dev@protonmail.com](mailto:yeo_dev@protonmail.com)! I'll respond as soon as I can.
 
-<div align="center">
-  
-## Enviroment
+---
+
 ### Editor
-
-![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+![JetBrains](https://img.shields.io/badge/JetBrains-000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white)
 
 ### Operating System
 
