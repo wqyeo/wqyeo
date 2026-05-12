@@ -3,11 +3,12 @@
 
 # Hi there 👋, I am Yeo Wen Qin, nice to meet you.
 
-👨‍💻 &nbsp;I'm a **Software Engineer** at [RoboAct Pte Ltd](https://roboact.com.sg/). I also hold a Degree in Software Engineering from the [Singapore Institute of Technology](https://www.singaporetech.edu.sg/).
-✉️ &nbsp;Feel free to shoot me an email at [yeo_dev@protonmail.com](mailto:yeo_dev@protonmail.com)! I'll respond as soon as I can.
+- 👨‍💻 &nbsp;I'm a **Software Engineer** at [RoboAct Pte Ltd](https://roboact.com.sg/). I also hold a Degree in Software Engineering from the [Singapore Institute of Technology](https://www.singaporetech.edu.sg/).
+- ✉️ &nbsp;Feel free to shoot me an email at [yeo_dev@protonmail.com](mailto:yeo_dev@protonmail.com)! I'll respond as soon as I can
 
----
+<div align="center">
 
+## Enviroment
 ### Editor
 ![JetBrains](https://img.shields.io/badge/JetBrains-000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white)
 
